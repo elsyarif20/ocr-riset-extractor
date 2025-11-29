@@ -1,0 +1,9 @@
+{
+  "name": "OCR & Research Assistant",
+  "description": "A powerful tool for extracting text from images using OCR and generating academic research content with AI assistance.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone",
+    "geolocation"
+  ]
+}
